@@ -11,3 +11,4 @@ Muqabala means contest in hindi.
 - [MARCO](http://www.msmarco.org/leaders.aspx)
 - [NarrativeQA](https://github.com/deepmind/narrativeqa)
 - [WikiQA](https://www.microsoft.com/en-us/research/publication/wikiqa-a-challenge-dataset-for-open-domain-question-answering/)
+- [RACE](https://www.cs.cmu.edu/~glai1/data/race/)
